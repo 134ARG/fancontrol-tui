@@ -6,12 +6,12 @@ Run with sudo to control fans. Otherwise it will be in read only mode.
 
 Demo:
 
-<img width="1472" height="906" alt="image" src="https://github.com/user-attachments/assets/5c2ab3c6-6d6c-45a8-8e4b-876f1c478d39" />
+<img width="1468" height="914" alt="image" src="https://github.com/user-attachments/assets/6ef522d7-0337-49c4-9f13-e63456453822" />
 
 Currently support 4 fan modes:
 
-<img width="1450" height="956" alt="image" src="https://github.com/user-attachments/assets/73158c6f-c6a9-461c-bc11-aa940ede2e11" />
+<img width="1468" height="904" alt="image" src="https://github.com/user-attachments/assets/c4e7824d-7181-44ed-bc6f-288d0d1050f6" />
 
 The read-only mode when running without root privilege:
 
-<img width="1476" height="1058" alt="image" src="https://github.com/user-attachments/assets/6b306c8f-0ec4-43e5-843d-6042de1136b9" />
+<img width="1488" height="926" alt="image" src="https://github.com/user-attachments/assets/0b97c12f-94ba-4beb-96d1-187749538605" />
