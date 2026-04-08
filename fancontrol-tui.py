@@ -212,7 +212,7 @@ def draw_menu(stdscr):
                 dialog.addstr(4 + idx, 2, row_padded)
 
         # Footer / Instructions
-        dialog.addstr(box_h - 4, 1, "├" + "─" * (box_w - 2) + "┤")
+        dialog.addstr(box_h - 4, 0, "├" + "─" * (box_w - 2) + "┤")
         dialog.addstr(box_h - 3, 2, "CONTROLS: [\u2191/\u2193] Select Fan | [Q]uit")
         if root_mode:
             dialog.addstr(box_h - 2, 2, "[M] Open Mode Menu | [\u2190/\u2192] Adjust Speed (Manual Only)")
