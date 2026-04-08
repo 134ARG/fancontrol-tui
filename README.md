@@ -12,6 +12,6 @@ Currently support 4 fan modes:
 
 <img width="1450" height="956" alt="image" src="https://github.com/user-attachments/assets/73158c6f-c6a9-461c-bc11-aa940ede2e11" />
 
-The read-only mode when opending without root privilege:
+The read-only mode when running without root privilege:
 
 <img width="1476" height="1058" alt="image" src="https://github.com/user-attachments/assets/6b306c8f-0ec4-43e5-843d-6042de1136b9" />
